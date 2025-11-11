@@ -1,0 +1,1 @@
+export default { slug: "color-sharpen", name: "Color Boost + Nitidez Pro", description: "Mejora colores, brillo, contraste y nitidez sin perder calidad." };

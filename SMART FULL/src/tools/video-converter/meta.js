@@ -1,0 +1,1 @@
+export default { slug: "video-converter", name: "Video → MP4 / MP3", description: "Convierte videos a MP4 o extrae audio MP3, 100% local." };
